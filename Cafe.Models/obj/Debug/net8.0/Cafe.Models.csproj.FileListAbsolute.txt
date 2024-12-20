@@ -1,0 +1,13 @@
+C:\1CBase\cafe-app\Cafe.Models\bin\Debug\net8.0\Cafe.Models.deps.json
+C:\1CBase\cafe-app\Cafe.Models\bin\Debug\net8.0\Cafe.Models.dll
+C:\1CBase\cafe-app\Cafe.Models\bin\Debug\net8.0\Cafe.Models.pdb
+C:\1CBase\cafe-app\Cafe.Models\obj\Debug\net8.0\Cafe.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\1CBase\cafe-app\Cafe.Models\obj\Debug\net8.0\Cafe.Models.AssemblyInfoInputs.cache
+C:\1CBase\cafe-app\Cafe.Models\obj\Debug\net8.0\Cafe.Models.AssemblyInfo.cs
+C:\1CBase\cafe-app\Cafe.Models\obj\Debug\net8.0\Cafe.Models.csproj.CoreCompileInputs.cache
+C:\1CBase\cafe-app\Cafe.Models\obj\Debug\net8.0\Cafe.Models.dll
+C:\1CBase\cafe-app\Cafe.Models\obj\Debug\net8.0\refint\Cafe.Models.dll
+C:\1CBase\cafe-app\Cafe.Models\obj\Debug\net8.0\Cafe.Models.pdb
+C:\1CBase\cafe-app\Cafe.Models\obj\Debug\net8.0\ref\Cafe.Models.dll
+C:\1CBase\cafe-app\Cafe.Models\obj\Debug\net8.0\Cafe.Models.csproj.AssemblyReference.cache
+C:\1CBase\cafe-app\Cafe.Models\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache

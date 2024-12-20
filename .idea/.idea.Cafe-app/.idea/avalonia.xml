@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Cafe/App.axaml" value="Cafe/Cafe.csproj" />
+        <entry key="Cafe/Views/AdminMainView.axaml" value="Cafe/Cafe.csproj" />
+        <entry key="Cafe/Views/AuthorizationView.axaml" value="Cafe/Cafe.csproj" />
+        <entry key="Cafe/Views/CheckView.axaml" value="Cafe/Cafe.csproj" />
+        <entry key="Cafe/Views/CookMainView.axaml" value="Cafe/Cafe.csproj" />
+        <entry key="Cafe/Views/EmployeeInfoView.axaml" value="Cafe/Cafe.csproj" />
+        <entry key="Cafe/Views/EmployeesPageView.axaml" value="Cafe/Cafe.csproj" />
+        <entry key="Cafe/Views/MenuPageView.axaml" value="Cafe/Cafe.csproj" />
+        <entry key="Cafe/Views/NewOrderPageView.axaml" value="Cafe/Cafe.csproj" />
+        <entry key="Cafe/Views/OrderInfoView.axaml" value="Cafe/Cafe.csproj" />
+        <entry key="Cafe/Views/OrdersCookPageView.axaml" value="Cafe/Cafe.csproj" />
+        <entry key="Cafe/Views/OrdersPageView.axaml" value="Cafe/Cafe.csproj" />
+        <entry key="Cafe/Views/OrdersWaiterPageView.axaml" value="Cafe/Cafe.csproj" />
+        <entry key="Cafe/Views/ProfilePageView.axaml" value="Cafe/Cafe.csproj" />
+        <entry key="Cafe/Views/WaiterMainView.axaml" value="Cafe/Cafe.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

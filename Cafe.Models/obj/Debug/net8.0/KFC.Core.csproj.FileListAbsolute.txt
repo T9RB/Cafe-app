@@ -1,0 +1,11 @@
+C:\1CBase\cafe-app\KFC.Core\bin\Debug\net8.0\KFC.Core.deps.json
+C:\1CBase\cafe-app\KFC.Core\bin\Debug\net8.0\KFC.Core.dll
+C:\1CBase\cafe-app\KFC.Core\bin\Debug\net8.0\KFC.Core.pdb
+C:\1CBase\cafe-app\KFC.Core\obj\Debug\net8.0\KFC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\1CBase\cafe-app\KFC.Core\obj\Debug\net8.0\KFC.Core.AssemblyInfoInputs.cache
+C:\1CBase\cafe-app\KFC.Core\obj\Debug\net8.0\KFC.Core.AssemblyInfo.cs
+C:\1CBase\cafe-app\KFC.Core\obj\Debug\net8.0\KFC.Core.csproj.CoreCompileInputs.cache
+C:\1CBase\cafe-app\KFC.Core\obj\Debug\net8.0\KFC.Core.dll
+C:\1CBase\cafe-app\KFC.Core\obj\Debug\net8.0\refint\KFC.Core.dll
+C:\1CBase\cafe-app\KFC.Core\obj\Debug\net8.0\KFC.Core.pdb
+C:\1CBase\cafe-app\KFC.Core\obj\Debug\net8.0\ref\KFC.Core.dll

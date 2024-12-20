@@ -1,0 +1,4 @@
+C:\1CBase\cafe-app\Cafe\bin\Release\net8.0\win-x64\publish\Cafe.pdb
+C:\1CBase\cafe-app\Cafe\bin\Release\net8.0\win-x64\publish\Cafe.Data.pdb
+C:\1CBase\cafe-app\Cafe\bin\Release\net8.0\win-x64\publish\Cafe.Models.pdb
+C:\1CBase\cafe-app\Cafe\bin\Release\net8.0\win-x64\publish\Cafe.exe

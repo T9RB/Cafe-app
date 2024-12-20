@@ -1,0 +1,17 @@
+C:\1CBase\cafe-app\KFC.Data\bin\Debug\net8.0\KFC.Data.deps.json
+C:\1CBase\cafe-app\KFC.Data\bin\Debug\net8.0\KFC.Data.runtimeconfig.json
+C:\1CBase\cafe-app\KFC.Data\bin\Debug\net8.0\KFC.Data.dll
+C:\1CBase\cafe-app\KFC.Data\bin\Debug\net8.0\KFC.Data.pdb
+C:\1CBase\cafe-app\KFC.Data\bin\Debug\net8.0\KFC.Core.dll
+C:\1CBase\cafe-app\KFC.Data\bin\Debug\net8.0\KFC.Core.pdb
+C:\1CBase\cafe-app\KFC.Data\obj\Debug\net8.0\KFC.Data.csproj.AssemblyReference.cache
+C:\1CBase\cafe-app\KFC.Data\obj\Debug\net8.0\KFC.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\1CBase\cafe-app\KFC.Data\obj\Debug\net8.0\KFC.Data.AssemblyInfoInputs.cache
+C:\1CBase\cafe-app\KFC.Data\obj\Debug\net8.0\KFC.Data.AssemblyInfo.cs
+C:\1CBase\cafe-app\KFC.Data\obj\Debug\net8.0\KFC.Data.csproj.CoreCompileInputs.cache
+C:\1CBase\cafe-app\KFC.Data\obj\Debug\net8.0\KFC.Data.csproj.Up2Date
+C:\1CBase\cafe-app\KFC.Data\obj\Debug\net8.0\KFC.Data.dll
+C:\1CBase\cafe-app\KFC.Data\obj\Debug\net8.0\refint\KFC.Data.dll
+C:\1CBase\cafe-app\KFC.Data\obj\Debug\net8.0\KFC.Data.pdb
+C:\1CBase\cafe-app\KFC.Data\obj\Debug\net8.0\KFC.Data.genruntimeconfig.cache
+C:\1CBase\cafe-app\KFC.Data\obj\Debug\net8.0\ref\KFC.Data.dll

@@ -1,0 +1,17 @@
+C:\1CBase\cafe-app\Cafe.Data\bin\Release\net8.0\Cafe.Data.deps.json
+C:\1CBase\cafe-app\Cafe.Data\bin\Release\net8.0\Cafe.Data.runtimeconfig.json
+C:\1CBase\cafe-app\Cafe.Data\bin\Release\net8.0\Cafe.Data.dll
+C:\1CBase\cafe-app\Cafe.Data\bin\Release\net8.0\Cafe.Data.pdb
+C:\1CBase\cafe-app\Cafe.Data\bin\Release\net8.0\Cafe.Models.dll
+C:\1CBase\cafe-app\Cafe.Data\bin\Release\net8.0\Cafe.Models.pdb
+C:\1CBase\cafe-app\Cafe.Data\obj\Release\net8.0\Cafe.Data.csproj.AssemblyReference.cache
+C:\1CBase\cafe-app\Cafe.Data\obj\Release\net8.0\Cafe.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\1CBase\cafe-app\Cafe.Data\obj\Release\net8.0\Cafe.Data.AssemblyInfoInputs.cache
+C:\1CBase\cafe-app\Cafe.Data\obj\Release\net8.0\Cafe.Data.AssemblyInfo.cs
+C:\1CBase\cafe-app\Cafe.Data\obj\Release\net8.0\Cafe.Data.csproj.CoreCompileInputs.cache
+C:\1CBase\cafe-app\Cafe.Data\obj\Release\net8.0\Cafe.Data.csproj.Up2Date
+C:\1CBase\cafe-app\Cafe.Data\obj\Release\net8.0\Cafe.Data.dll
+C:\1CBase\cafe-app\Cafe.Data\obj\Release\net8.0\refint\Cafe.Data.dll
+C:\1CBase\cafe-app\Cafe.Data\obj\Release\net8.0\Cafe.Data.pdb
+C:\1CBase\cafe-app\Cafe.Data\obj\Release\net8.0\Cafe.Data.genruntimeconfig.cache
+C:\1CBase\cafe-app\Cafe.Data\obj\Release\net8.0\ref\Cafe.Data.dll

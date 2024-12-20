@@ -1,0 +1,47 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModels="clr-namespace:Cafe.ViewModels"
+        mc:Ignorable="d" 
+        x:Class="Cafe.Views.AuthorizationView"
+        x:Name="ThisWindow"
+        Title="Авторизация" CanResize="False"
+        WindowStartupLocation="CenterScreen"
+        Background="DimGray"
+        ExtendClientAreaToDecorationsHint="True"
+        Height="300" Width="450">
+        
+    
+    <Design.DataContext>
+        <viewModels:AuthorizationViewModel/>
+    </Design.DataContext>
+    
+    <Border Width="450" 
+            Margin="15"
+            Background="Gray" 
+            VerticalAlignment="Center" 
+            CornerRadius="25"
+            Padding="20">
+        <StackPanel>
+            <TextBlock FontWeight="Bold" FontSize="24" Text="Авторизация" Padding="10" HorizontalAlignment="Center"
+                       Margin="5"/>
+        
+            <TextBox Watermark="Логин" FontSize="15"
+                     Text="{ReflectionBinding Login}"
+                     Margin="5"/>
+        
+            <TextBox Watermark="Пароль" FontSize="15"
+                     Text="{ReflectionBinding Password}"
+                     PasswordChar="*"
+                     Margin="5"/>
+                
+            <Button  Content="Войти" Foreground="White" HorizontalContentAlignment="Center"
+                     Command="{ReflectionBinding ButtonEnter}"
+                     CommandParameter="{ReflectionBinding ElementName=ThisWindow}"
+                     Width="400"
+                     Background="Black" Margin="5"
+                     HorizontalAlignment="Center"/>  
+        </StackPanel>
+    </Border>        
+</Window>
